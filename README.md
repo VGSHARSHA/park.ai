@@ -1,6 +1,9 @@
 # park.ai
 > park anywhere and everywhere, legally!
 
+![Alt text]( https://user-images.githubusercontent.com/56252933/113469488-82b14800-946b-11eb-905f-d6a7115d1ad1.png "Park.ai")
+
+# TEAM MEMBERS : 
 * [CHAITANYA SAI](chaitanya.saig@s.amity.edu)
 
 * [SANKOJU MANASA](sankojumanasa2002@gmail.com)
@@ -14,6 +17,10 @@
 park.ai is a cross-platform application which allows people to host and park their vehicles at private parking spaces. 
 People can now host their own private parking spaces on a rental basis. It also allows the user to find available parking spaces
 near them using the app. 
+
+![Alt text]( https://user-images.githubusercontent.com/56252933/113469572-2bf83e00-946c-11eb-95e6-28ae40665cf4.png "Park.ai")
+![Alt text]( https://user-images.githubusercontent.com/56252933/113469575-361a3c80-946c-11eb-86fa-ac26c50cb711.jpeg "Park.ai")
+
 
 ## Why park.ai?
 
