@@ -1,8 +1,3 @@
-# HaXplore 2.0 - Submission Report Format
-
-This is the official code repository for park.ai. This application  was developed during HaXplore 2.0, 
-the online hackathon conducted by Codefest, the annual departmental fest of Computer Science department, IIT BHU Varanasi.
-
 # park.ai
 > park anywhere and everywhere, legally!
 
