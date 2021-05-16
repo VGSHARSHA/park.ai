@@ -1,7 +1,7 @@
 # park.ai
 > park anywhere and everywhere, legally!
 
-![Alt text]( https://user-images.githubusercontent.com/56252933/113469488-82b14800-946b-11eb-905f-d6a7115d1ad1.png "Park.ai")
+![Alt text]( https://user-images.githubusercontent.com/56252933/118388166-6397ff80-b640-11eb-93c0-2bf647c3cb81.png "Park.ai")
 
 # TEAM MEMBERS : 
 * [CHAITANYA SAI](chaitanya.saig@s.amity.edu)
