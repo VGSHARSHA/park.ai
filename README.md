@@ -6,7 +6,7 @@
 # TEAM MEMBERS : 
 * [CHAITANYA SAI](chaitanya.saig@s.amity.edu)
 
-* [RUTTALA MANOHAR ](ruttalamanohar@gmail.com)
+* [SANKOJU MANASA](sankoju.manasa@gmail.com)
 
 * [RIYA PATRO](riya.patro@s.amity.edu)
 
